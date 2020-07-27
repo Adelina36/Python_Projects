@@ -1,0 +1,11 @@
+list = [2,4,6,8,10,12,14,0]
+print(max(list))
+print(min(list))
+print(len(list))
+list.append(16)
+print(list)
+print(list.count(8))
+list.sort()
+print(list)
+list.reverse()
+print(list)
